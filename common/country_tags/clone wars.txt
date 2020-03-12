@@ -3,6 +3,14 @@ REP = "countries/Republic.txt"
 CIS = "countries/CIS.txt"
 HUT = "countries/Hutt.txt"
 
+# CIS
+ALL = "countries/corporatealliance.txt"
+FED = "countries/tradefederation.txt"
+CMG = "countries/commerceguild.txt"
+IBC = "countries/intergalacticbankingclan.txt"
+TEC = "countries/technounion.txt"
+
+
 # Other
 ABR = "countries/Abregado-Rae.txt"
 ALD = "countries/Alderaan.txt"
@@ -54,6 +62,7 @@ NIM = "countries/Nimban.txt"
 OND = "countries/Onderon.txt"
 ORD = "countries/OrdMantell.txt" # Junk Planet
 POL = "countries/PolisMassa.txt"
+QUA = "countries/Quarren.txt" #DAC civil war
 RAK = "countries/RakataPrime.txt" # Ancient home of a galaxy-spanning empire
 RAT = "countries/Rattatak.txt"
 RAX = "countries/Raxus.txt"
@@ -75,6 +84,7 @@ THY = "countries/Thyferra.txt"
 TRA = "countries/Trandosha.txt"
 TRO = "countries/Troydaria.txt"
 UMB = "countries/Umbara.txt"
+UNI = "countries/Uninhabited.txt"
 UTU = "countries/Utupau.txt"
 VER = "countries/Vergesso.txt" # Asteroids
 YAV = "countries/Yavin.txt" # Not Yavin 4 (the moon will be added too)
